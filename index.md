@@ -19,8 +19,8 @@
 Программное обеспечение станции - **RMS** (**Raspberry Meteor Station**) работает в операционной системе **Linux** (**Raspbian**).  
 Имеется возможность установки **RMS** в ОС **Ubuntu 20.04 LTS** с [поддержкой нескольких камер](https://globalmeteornetwork.org/wiki/index.php?title=Advanced_RMS_installations_and_Multi-camera_support).  
 
-[![Пример установки нескольких камер](images/multi-camera.jpg)](https://werkgroepmeteoren.nl/wp-content/uploads/Global_Meteor_Network_01_cameras.jpg)  
-[![Установка нескольких модулей в один кожух](images/multi-camera2.jpg)](https://makezine.com/wp-content/uploads/2021/11/Meteor-Camera-5eyes-1-1024x873-1.jpg)  
+[![Пример установки нескольких камер](images/multi-camera.jpg)](https://werkgroepmeteoren.nl/gmn-camera/)  
+[![Установка нескольких модулей в один кожух](images/multi-camera2.jpg)](https://makezine.com/projects/raspberry-pi-meteor-camera/)  
 
 ## Программное обеспечение **RMS**
 Программное обеспечение [**RMS**](https://github.com/CroatianMeteorNetwork) рассчитывает интервал съёмки от заката до восхода солнца. В зависимости от модели камеры и возможностей **RPi**, камера снимает 25 или более кадров в секунду в период между вечерними и утренними сумерками.  
